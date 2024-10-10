@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""more involved typei annotations"""
+""" more involved typei annotations"""
 
 from typing import Mapping, Any, Union, TypeVar
 
